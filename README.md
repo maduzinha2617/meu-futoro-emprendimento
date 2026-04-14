@@ -12,6 +12,4 @@ let resultado3 = num5 + num6;
 
 alert('O resultado da primeira soma  é: ' + resultado);
 alert('O resultado da segunda soma é: ' + resultado2);
-alert('O resultado da terceira soma é: ' + resultado3);
-
-
+alert('O resultado da terceira soma é: ' + resultado3
